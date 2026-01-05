@@ -2523,6 +2523,11 @@ hash = "e4ffef98e98bcae23d9220b88bb95f4ef878b5c509a2f4a2fa5724c0d9d7dd19"
 metafile = true
 
 [[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "8b60dcf2f8a3d76c90dffc7c87ffc6daaf38be2e12ba7af7ab06f54b1efd8304"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fb46ea6fed057190d17bd20f1e5ea835e1691b629f0d505efdc2279d55090a42"
 metafile = true
@@ -2580,6 +2585,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a3ef67176af27301b4b15601ad85700d621dd1cfde4308bc55fe0af2fe83ab03"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "bc5bde51620622b9f415bcc3dfea4dca5bd17171383cf4290e1075b7352adbe0"
 metafile = true
 
 [[files]]
@@ -2655,6 +2665,11 @@ metafile = true
 [[files]]
 file = "mods/doespotatotick.pw.toml"
 hash = "87b4bfae5f599610e8cb92c2184119a986db2ea1e0b9f5c5e8edc5d1d0c4dac0"
+metafile = true
+
+[[files]]
+file = "mods/dragns-livestock-overhaul.pw.toml"
+hash = "22e8f43e33da36a89db709e2f7c67c3b43f097e4fbed5d6a27df5c166bac8ae1"
 metafile = true
 
 [[files]]
@@ -2788,6 +2803,11 @@ hash = "3ed5a12bb390e00f10899c409ee668f755798fbd3c02ec1641500dea555a76b8"
 metafile = true
 
 [[files]]
+file = "mods/fishermans-trap.pw.toml"
+hash = "cf80fa9a9033883df0e0454731faab53320030e23dbdd727215d8cd73a3f7692"
+metafile = true
+
+[[files]]
 file = "mods/fix-experience-bug.pw.toml"
 hash = "debd96e28aa70e3cd10f651652489a1ae8c37239b69efc47d8a052b7fba71b79"
 metafile = true
@@ -2891,6 +2911,11 @@ hash = "5cc92eb0e58c2afbfd625d727d80da1d1c84500ec962bb22f5be28b864f18551"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "7b67b9d65c5d2077116dec0f40ed853f6b0c17b82308331f037c74eea23d4291"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "996469168e48362730b42aad58dc3eaff0e22637e140013b5ef11552c4b4ab8e"
 metafile = true
@@ -2953,6 +2978,11 @@ metafile = true
 [[files]]
 file = "mods/ldlib.pw.toml"
 hash = "9d1a589574928cb35ff9ec5dc2a0ce361220cc2c662c5877699d94f49e373158"
+metafile = true
+
+[[files]]
+file = "mods/let-fish-love.pw.toml"
+hash = "65a296826770de11a58fb55b7df0ab9dd993e7c43f956846c94f5fb24110f53d"
 metafile = true
 
 [[files]]
@@ -3021,6 +3051,11 @@ hash = "c0f2ac33cac2771212dc1f9cd32f1878b53dcedc54793db2d249cc98d4017859"
 metafile = true
 
 [[files]]
+file = "mods/no-more-trampling.pw.toml"
+hash = "a81ddf85747c12018396054c4a221aa75b0168b2d2dbaf3c0cb9f08aac91d863"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "8b64b765a0617e95977195b6366358cf77b08bf943530299878e3a4d93136941"
 metafile = true
@@ -3086,6 +3121,11 @@ hash = "576c13afa64ff9e8d97c1f0624a49b46cbf97b213f463d850f05ba5d0cea77b4"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "719996cd042f205f8a4f14c9542246a1b4d7eed2dda838d3de6b10c1a3bdb7df"
 metafile = true
@@ -3136,6 +3176,11 @@ hash = "69dd7341ad086e0fa23bef3ba04237c4c74ea76800cf8289050b09eda3268c5c"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "f265126825ab0f608b62b64e375004e475c625cb8005434718e8463cf52ff909"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "c2eac86256a3ecd45f6706976af120e0464b135c2b39471b9d93bcd8b5426a8b"
 metafile = true
@@ -3148,6 +3193,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "4b2933a18390fe4fc0efef26556413372a96a0f5ed639c713643ed8e49649c58"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "033321aebc8bfe8c7630dd187596feb741ae0b6e2e797dda0b785c126ad53c84"
 metafile = true
 
 [[files]]
@@ -3181,8 +3231,18 @@ hash = "aae40317e3c222fed742cc5a889b96bf371d98d1dcc57c78458e55203e7ec248"
 metafile = true
 
 [[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "766d65447c643b4c4e5f5d2e0c17b4fc4307405979c76e2c1e539d77c5a70cad"
+metafile = true
+
+[[files]]
 file = "mods/useful-clipboard.pw.toml"
 hash = "12f89bc6c0fda77ce685281c42f038bb5b2fa78aa23e15234fecf22aff4f3454"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "c1bf8d194ef2c39c6046fa53861571b7c569277923b35e6d95a58ee4644eedb6"
 metafile = true
 
 [[files]]

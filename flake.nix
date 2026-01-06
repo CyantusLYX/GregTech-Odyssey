@@ -16,6 +16,7 @@
         pkgs = nixpkgs.legacyPackages.${system};
         pack = builtins.fromTOML (builtins.readFile ./pack.toml);
         inherit (packwiz2nix.packages.${system}) buildPackwizModpack;
+        patchFilesCommon = ''
           # patchFilesCommon removed to preserve local quests changes
         '';
       in {

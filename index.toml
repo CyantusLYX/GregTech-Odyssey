@@ -2926,6 +2926,10 @@ hash = "82f389d06c0e19d2ffcd75d5d85e0d9f09ec17178b8dd3e5afe9350a271e0443"
 metafile = true
 
 [[files]]
+file = "mods/infcoal-1.20.1-1.0.jar"
+hash = "832faceba12a70a40277421b8f94230b6a654c6dbe9290442172b7ffcb52589c"
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "9779719134e508c31ef0cb08ed272daef6d3b4a8a5bff07e48f9695e88e5a410"
 metafile = true

@@ -16,9 +16,7 @@
         pkgs = nixpkgs.legacyPackages.${system};
         pack = builtins.fromTOML (builtins.readFile ./pack.toml);
         inherit (packwiz2nix.packages.${system}) buildPackwizModpack;
-        patchFilesCommon = ''
-          rm -rf config/ftbquests/quests
-          cp -r .github/localization/quests config/ftbquests/quests
+          # patchFilesCommon removed to preserve local quests changes
         '';
       in {
         devShells.default =

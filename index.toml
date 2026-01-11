@@ -1306,7 +1306,7 @@ hash = "84254dc1e5a56ea70df6b16a2fb2620040592badae436c255997aaae84996d91"
 
 [[files]]
 file = "config/openloader/resources/quests/assets/gto/lang/en_us.json"
-hash = "332b2fef39e071ce2fe2285a411985fe4a0a4a0030e5f6cdf4eca02b68b5ed44"
+hash = "e270a8be844bdd8a3642113246b9e7588f489abc538994106ec6139963cc3d91"
 
 [[files]]
 file = "config/openloader/resources/quests/assets/gto/lang/ru_ru.json"
@@ -1418,7 +1418,7 @@ hash = "fe617436227a16cc9db1eb4d941402cdb808d374a6e44dae7c14e78478f9c1e6"
 
 [[files]]
 file = "config/openloader/resources/resources/assets/explorerscompass/lang/zh_cn.json"
-hash = "9d40a852060fc3b411664e36b629643fe8aaf6512977eecab596644d793edd28"
+hash = "6428afc8e5bc65185ea25ce8d800039e9ee9565cacf32851d2317861530a56e6"
 
 [[files]]
 file = "config/openloader/resources/resources/assets/factory_blocks/lang/zh_cn.json"

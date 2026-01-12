@@ -56,9 +56,11 @@
 /result
 packwiz.exe
 
-!infcoal-*.jar
-!gtocore-*.jar
-!gtonativelib-*.jar
+!mods/infcoal-*.jar
+!mods/gtocore-*.jar
+!mods/gtonativelib-*.jar
+!mods/Super Factory Manager*.jar
+!mods/gtocore-cy-patch-*.jar
 config/flywheel-client.toml
 config/embeddium-options.json
 pack.bat

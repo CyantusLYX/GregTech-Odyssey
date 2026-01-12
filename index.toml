@@ -2393,6 +2393,10 @@ file = "defaultconfigs/solcarrot-server.toml"
 hash = "e143bd0b7c1b210cdf4cefa2df0e8dc1164eec3a40345a42c9fc66b102e530ab"
 
 [[files]]
+file = "mods/Super Factory Manager (SFM)-MC1.20.1-4.28.0.jar"
+hash = "5c792f03e4c76a94a21ed12c534566c9a28ae8537a39f8054a2bfc2323ce073d"
+
+[[files]]
 file = "mods/ad-astra-rocketed.pw.toml"
 hash = "f7701471418c363cc5e72f648cd2b29572a0ba858fbf073fbcca50fb70b06c7c"
 metafile = true
@@ -2902,6 +2906,10 @@ file = "mods/gtocore-0.5.3.jar"
 hash = "db6f23589fc23d32be51d5ef1223911769871d65600036e10e2cb0162ed99180"
 
 [[files]]
+file = "mods/gtocore-cy-patch-0.5.3.jar"
+hash = "09e07ba5d226f7ae1d3d69213a98b4889e23eb4c062b0a29d809eca8345cb9a8"
+
+[[files]]
 file = "mods/gtonativelib-1.0.jar"
 hash = "c26d675a163bf600bcbd9075551bf8627c45caaa912f65c51612405163ec5c4f"
 
@@ -2913,6 +2921,11 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "7b67b9d65c5d2077116dec0f40ed853f6b0c17b82308331f037c74eea23d4291"
+metafile = true
+
+[[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "d8f52c6109108160c9ca80ae2d1fd03f3b27f4a3196c62ba805928b66482be5b"
 metafile = true
 
 [[files]]
@@ -3202,11 +3215,6 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "4b2933a18390fe4fc0efef26556413372a96a0f5ed639c713643ed8e49649c58"
-metafile = true
-
-[[files]]
-file = "mods/super-factory-manager.pw.toml"
-hash = "033321aebc8bfe8c7630dd187596feb741ae0b6e2e797dda0b785c126ad53c84"
 metafile = true
 
 [[files]]

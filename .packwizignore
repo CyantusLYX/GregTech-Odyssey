@@ -65,6 +65,8 @@ config/flywheel-client.toml
 config/embeddium-options.json
 README_zh.md
 
-!gtocore-*.jar
-!gtonativelib-*.jar
+!mods/gtocore-*.jar
+!mods/gtonativelib-*.jar
 !mods/infcoal-*.jar
+!mods/Super Factory Manager*.jar
+!mods/gtocore-cy-patch-*.jar

@@ -2393,6 +2393,10 @@ file = "defaultconfigs/solcarrot-server.toml"
 hash = "e143bd0b7c1b210cdf4cefa2df0e8dc1164eec3a40345a42c9fc66b102e530ab"
 
 [[files]]
+file = "mods/Programmed Circuit Card-1.20.1-1.2.6.jar"
+hash = "82e8ad6b7cf879029e18444545b2730723969b652768131e36167a3e9f1ec0eb"
+
+[[files]]
 file = "mods/Super Factory Manager (SFM)-MC1.20.1-4.28.0.jar"
 hash = "5c792f03e4c76a94a21ed12c534566c9a28ae8537a39f8054a2bfc2323ce073d"
 

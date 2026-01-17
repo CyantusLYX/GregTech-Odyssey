@@ -64,3 +64,6 @@ packwiz.exe
 config/flywheel-client.toml
 config/embeddium-options.json
 pack.bat
+sfm
+.opencode
+!mods/Programmed Circuit Card-*.jar     

@@ -64,9 +64,11 @@ fixup.sh
 config/flywheel-client.toml
 config/embeddium-options.json
 README_zh.md
-
+.opencode/
+sfm/
 !mods/gtocore-*.jar
 !mods/gtonativelib-*.jar
 !mods/infcoal-*.jar
 !mods/Super Factory Manager*.jar
 !mods/gtocore-cy-patch-*.jar
+!mods/Programmed Circuit Card-*.jar
